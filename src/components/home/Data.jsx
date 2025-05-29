@@ -12,9 +12,9 @@ const Data = () => {
 
       <h3 className="home__subtitle">Full Stack Developer</h3>
 
-      <p className="home__description">
-       I am a Full Stack Developer with experience in building dynamic and responsive web applications, proficient in both front-end and back-end development. I am currently open to freelancing opportunities while continuously learning and exploring new technologies.</p>
-      
+<p className="home__description">
+  I am a Full Stack Developer with experience in building dynamic and responsive web applications, proficient in both front-end and back-end development. I am currently open to freelancing opportunities while continuously learning and exploring new technologies.
+</p>
 
       <a href="#contact" className="button button--flex">
         Say Hello

@@ -1,6 +1,6 @@
 import Project1 from "../../assets/project1.png";
 import Project2 from "../../assets/project2.png";
-import Project3 from "../../assets/project3.png";
+
 
 export const Data = [
   {
@@ -10,10 +10,10 @@ export const Data = [
     category: "Web Development",
     description:
       "Built a Udemy-like e-learning platform using MERN stack with secure authentication, video streaming, course management, and integrated payment gateway.",
-    codeLink: "", 
+    codeLink: "",
     demoLink: "", 
   },
-  
+
   {
     id: 3,
     image: Project1,
