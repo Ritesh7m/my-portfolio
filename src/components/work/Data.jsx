@@ -10,8 +10,8 @@ export const Data = [
     category: "Web Development",
     description:
       "Built a Udemy-like e-learning platform using MERN stack with secure authentication, video streaming, course management, and integrated payment gateway.",
-    codeLink: "", // Add your GitHub link when available
-    demoLink: "", // Add your demo link when available
+    codeLink: "", 
+    demoLink: "", 
   },
   
   {
