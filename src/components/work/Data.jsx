@@ -13,16 +13,7 @@ export const Data = [
     codeLink: "", // Add your GitHub link when available
     demoLink: "", // Add your demo link when available
   },
-  {
-    id: 2,
-    image: Project3,
-    title: "Climate News Aggregator",
-    category: "Web Development",
-    description:
-      "Built web app that aggregates climate news from APIs with real-time updates and voice functionality.",
-    codeLink: "https://github.com/Ritesh7m/Climate_newsAggrigator",
-    demoLink: "https://climate-news-aggrigator.vercel.app",
-  },
+  
   {
     id: 3,
     image: Project1,
