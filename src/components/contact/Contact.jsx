@@ -12,7 +12,7 @@ const Contact = () => {
   const [submitStatus, setSubmitStatus] = useState("");
 
   useEffect(() => {
-    emailjs.init('1fJuDws2qxj0FQSUc'); // Replace with your actual User ID
+    emailjs.init('1fJuDws2qxj0FQSUc');
   }, []);
 
   useEffect(() => {
@@ -92,7 +92,7 @@ const Contact = () => {
         'template_uh2mfqu',         
         {
           name: formData.name,
-          from_email: formData.email,
+          reply_to: formData.email,
           message: formData.message,
           time: currentTime,
           to_email: 'maurya.ritesh2005@gmail.com' 
