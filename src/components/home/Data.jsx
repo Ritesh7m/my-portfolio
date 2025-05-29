@@ -13,8 +13,7 @@ const Data = () => {
       <h3 className="home__subtitle">Full Stack Developer</h3>
 
       <p className="home__description">
-        I am a Full Stack Developer with a passion for creating dynamic and responsive web applications. I have experience in both front-end and back-end development skills.
-      </p>
+       I am a Full Stack Developer with experience in building dynamic and responsive web applications, proficient in both front-end and back-end development. I am currently open to freelancing opportunities while continuously learning and exploring new technologies.
 
       <a href="#contact" className="button button--flex">
         Say Hello
