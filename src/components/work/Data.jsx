@@ -20,7 +20,7 @@ export const Data = [
     title: "E-Commerce for RO Filters",
     category: "Web Development",
     description:
-      "Created a MERN stack e-commerce website with payment integration, inventory management, and a user-friendly interface for water purifier filters.",
+      "Developed a MERN stack e-commerce website for RS Enterprises to promote and sell water purifier filters online. Features include product listings, user authentication, and secure payment processing.",
     codeLink: "https://github.com/Ritesh7m/RS_enterprises",
     demoLink: "https://rs-enterprises.vercel.app",
   },

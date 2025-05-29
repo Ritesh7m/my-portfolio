@@ -309,3 +309,15 @@
     background: rgba(255, 255, 255, 0.1);
   }
 }
+
+/* email  */
+.send-button.error {
+  background: linear-gradient(135deg, #ff6b9d 0%, #c471ed 100%);
+  animation: shake 0.5s ease-in-out;
+}
+
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  25% { transform: translateX(-5px); }
+  75% { transform: translateX(5px); }
+}
