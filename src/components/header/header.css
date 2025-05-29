@@ -134,6 +134,10 @@ body {
     bottom: 0.5rem;
     color: var(--body-color);
   }
+  .nav__menu{
+      background: linear-gradient(135deg, #0f0f23 0%, #1a1a2e 50%, #16213e 100%);
+  }
+  
 }
 
 /* ============ MEDIA: 350px and below ============ */

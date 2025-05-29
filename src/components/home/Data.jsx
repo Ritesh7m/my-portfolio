@@ -6,7 +6,7 @@ const Data = () => {
   return (
     <div className="home__data">
       <div className="home__title-row">
-        <h1 className="home__title">Ritesh Maurya</h1>
+        <h1 className="home__title">Ritesh </h1>
         <img src={hand} alt="waving hand" className="home__hand" />
       </div>
 
