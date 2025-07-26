@@ -16,5 +16,5 @@ Welcome to my **React-based Developer Portfolio**! This project showcases my wor
 
 ---
 
-## 📁 Folder Structure
+
 
