@@ -10,20 +10,7 @@ const Info = () => {
                 For Freelancing
             </span>
         </div> 
-         <div className="about__box">
-            <i className='uil uil-code-branch about__icon'></i>
-            <h3 className="about__title">03+</h3>
-            <span className="about__subtitle">
-                MERN Projects
-            </span>
-        </div>
-        <div className="about__box">
-            <i className='uil uil-robot about__icon'></i>
-            <h3 className="about__title">IT</h3>
-            <span className="about__subtitle">
-                Engineering Branch
-            </span>
-        </div>
+         
     </div>
   )
 }
