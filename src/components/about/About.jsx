@@ -17,12 +17,9 @@ const About = () => {
           <img src={AboutImg} className="about__img " alt="About" />
         </Tilt>
         <div className="about__data">
-          <Info />
+          {/* <Info /> */}
           <p className="about__description">
-            I am a passionate web developer with a keen interest in creating
-            dynamic and responsive web applications. I thrive on challenges and
-            continuously seek to improve my skills and knowledge in the
-            ever-evolving field of web development.
+            I’m Ritesh Maurya, a web developer skilled in Java and the MERN stack. I build dynamic, responsive web applications and focus on problem-solving with Data Structures and Algorithms. My projects include RS Enterprises (MERN e-commerce with cart and payments), StudyNotion (e-learning platform with dashboards and secure payments), and LeetStatus (React app to instantly view LeetCode statistics). I aim to grow as a Full Stack Developer, creating clean, user-friendly applications that deliver real value
           </p>
           <a download="" href={CV} className="button button--flex">
             Download CV
