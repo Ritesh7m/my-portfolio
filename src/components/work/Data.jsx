@@ -21,7 +21,7 @@ export const Data = [
     description:
       "Built a MERN-based Udemy-like e-learning platform with JWT authentication, role-based access, HD video streaming, full course management, integrated payments, and user dashboards with progress tracking.",
     codeLink: "https://github.com/Ritesh7m/StudyNotion",
-    demoLink: "https://study-notion-amber-ten.vercel.app/",
+    demoLink: "https://studywebapp.vercel.app/",
   },
   {
     id: 3,
@@ -31,6 +31,6 @@ export const Data = [
     description:
       "A React web app that lets users instantly check their LeetCode statistics. Enter a username to fetch and view profile details such as total problems solved, difficulty wise breakdown, and join date all in a simple and intuitive interface.",
     codeLink: "https://github.com/Ritesh7m/leetcode-status",
-    demoLink: "https://leetcode-status-vert.vercel.app/",
+    demoLink: "https://leetstatus.vercel.app/",
   },
 ];
