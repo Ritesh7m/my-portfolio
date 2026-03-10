@@ -1,6 +1,7 @@
 import Project1 from "../../assets/project1.png";
 import Project2 from "../../assets/project2.png";
 import Project3 from "../../assets/project3.png";
+import Project4 from "../../assets/project4.png";
 
 export const Data = [
    {
@@ -34,4 +35,15 @@ export const Data = [
     codeLink: "https://github.com/Ritesh7m/Quick-paste",
     demoLink: "https://rpaste.vercel.app/",
   },
+  {
+    id: 3,
+    image: Project4,
+    title: "Leetstatus",
+    category: "Web Development",
+    description:
+      "A React-based web application that allows users to quickly view their LeetCode statistics. Simply enter your LeetCode username, and the application will fetch and display your profile information, including total solved problems, breakdown by difficulty, and join date. This project aims to provide a clean and intuitive interface for tracking your LeetCode progress.",
+    codeLink: "https://github.com/Ritesh7m/leetcode-status",
+    demoLink: "https://leetstatus.vercel.app/",
+  },
+  
 ];
