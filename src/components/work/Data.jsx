@@ -14,16 +14,16 @@ export const Data = [
     codeLink: "https://github.com/Ritesh7m/StudyNotion",
     demoLink: "https://studywebapp.vercel.app/",
   },
-  {
-    id: 1,
-    image: Project1,
-    title: "E-Commerce Website",
-    category: "Web Development",
-    description:
-      "Built a MERN stack e-commerce website for RS Enterprises to sell water purifier filters online, featuring product listings, shopping cart, secure checkout, and smooth order management for customers and admins. ",
-    codeLink: "https://github.com/Ritesh7m/RS_enterprises",
-    demoLink: "https://rs-enterprises-frontend.vercel.app/",
-  },
+{
+  id: 1,
+  image: Project1,
+  title: "R.S Enterprises RO System Website",
+  category: "Web Development",
+  description:
+    "Built a full-stack web application using Next.js, Tailwind CSS, Node.js, and MongoDB for an RO water purifier business. Implemented dynamic product listings, service pages, inquiry system, and an admin panel with Cloudinary image upload integration.",
+  codeLink: "https://github.com/Ritesh7m/Rs-ecommerce",
+  demoLink: "https://rsenterprisesapp.vercel.app/",
+},
  
   {
     id: 3,
